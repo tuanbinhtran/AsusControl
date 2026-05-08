@@ -1,11 +1,13 @@
 {
-  "id": "asusControlCenter",
-  "name": "ASUS Control Center",
+  "id": "asusControlCenter-fork",
+  "name": "ASUS Control Center (Custom Fork)",
   "description": "Manage Power Profiles and GPU Modes for ASUS Laptops",
-  "version": "1.0.0",
-  "author": "PseudoFractal",
+  "version": "1.0.1",
+  "author": "PseudoFractal, tuanbinhtran",
   "icon": "developer_board",
   "type": "widget",
   "component": "AsusControlCenter.qml",
-  "permissions": ["process"]
+  "permissions": [
+    "process"
+  ]
 }
